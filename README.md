@@ -1,4 +1,5 @@
 [![Build Status](https://dev.azure.com/jmchtc1974/test/_apis/build/status/jmorenocastillo.pipelines-java?branchName=master)](https://dev.azure.com/jmchtc1974/test/_build/latest?definitionId=1&branchName=master)
+[![Build Status](https://dev.azure.com/jmchtc1974/test/_apis/build/status/jmorenocastillo.pipelines-java?branchName=master)](https://dev.azure.com/jmchtc1974/test/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
